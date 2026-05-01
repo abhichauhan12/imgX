@@ -1,0 +1,10 @@
+/Users/abhishekchauhan/Developer/rust/imgx/target/debug/deps/avif_serialize-a4938bbcc59dec82.d: /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/lib.rs /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/boxes.rs /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/constants.rs /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/writer.rs
+
+/Users/abhishekchauhan/Developer/rust/imgx/target/debug/deps/libavif_serialize-a4938bbcc59dec82.rlib: /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/lib.rs /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/boxes.rs /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/constants.rs /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/writer.rs
+
+/Users/abhishekchauhan/Developer/rust/imgx/target/debug/deps/libavif_serialize-a4938bbcc59dec82.rmeta: /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/lib.rs /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/boxes.rs /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/constants.rs /Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/writer.rs
+
+/Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/lib.rs:
+/Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/boxes.rs:
+/Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/constants.rs:
+/Users/abhishekchauhan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/avif-serialize-0.8.8/src/writer.rs:

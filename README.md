@@ -26,7 +26,7 @@ src/
 ├── processor.rs
 ├── commands
 └── main.rs
-```
+
 
 ## 🚀 Why This Project
 

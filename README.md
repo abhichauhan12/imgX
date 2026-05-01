@@ -20,12 +20,13 @@ A high-performance concurrent image processing engine built with Rust.
 ## 🧠 Architecture
 
 Clean modular architecture:
-
+```
 src/
 ├── filters/
 ├── processor.rs
 ├── commands
 └── main.rs
+```
 
 ## 🚀 Why This Project
 
